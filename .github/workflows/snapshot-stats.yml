@@ -1,0 +1,39 @@
+# .github/workflows/snapshot-stats.yml
+name: Snapshot LeetCode stats
+on:
+  schedule:
+    - cron: "0 18 * * *"   # once daily, ~11:30pm IST
+  workflow_dispatch: {}
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Append today's stats to history.json
+        run: |
+          python3 - <<'EOF'
+          import json, datetime, pathlib
+
+          stats = json.loads(pathlib.Path("stats.json").read_text())["leetcode"]
+          history_path = pathlib.Path("history.json")
+          history = json.loads(history_path.read_text()) if history_path.exists() else []
+
+          today = datetime.date.today().isoformat()
+          if not history or history[-1]["date"] != today:
+              history.append({
+                  "date": today,
+                  "solved": stats["solved"],
+                  "easy": stats["easy"],
+                  "medium": stats["medium"],
+                  "hard": stats["hard"],
+              })
+              history_path.write_text(json.dumps(history, indent=2))
+          EOF
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add history.json
+          git diff --cached --quiet || git commit -m "Snapshot stats"
+          git push
