@@ -73,3 +73,23 @@ jobs:
 ```
 
 Say the word and I'll add this file to your repo plan and wire the dashboard to plot `history.json` as a trend line instead of (or alongside) the live heatmap.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## String
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+<!---LeetCode Topics End-->
