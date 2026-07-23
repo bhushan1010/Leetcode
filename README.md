@@ -80,6 +80,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/bhushan1010/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
@@ -92,4 +93,12 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/bhushan1010/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/bhushan1010/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
