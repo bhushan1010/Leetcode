@@ -79,6 +79,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 ## Array
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhushan1010/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhushan1010/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhushan1010/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -112,5 +113,10 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhushan1010/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushan1010/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhushan1010/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
