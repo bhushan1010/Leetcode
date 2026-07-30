@@ -86,6 +86,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushan1010/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -100,6 +101,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhushan1010/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhushan1010/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -136,4 +138,8 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
