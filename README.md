@@ -87,6 +87,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhushan1010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushan1010/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -119,6 +120,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhushan1010/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhushan1010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushan1010/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhushan1010/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -128,11 +130,13 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhushan1010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushan1010/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhushan1010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -142,4 +146,5 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhushan1010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
