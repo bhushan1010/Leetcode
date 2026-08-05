@@ -1,0 +1,23 @@
+from typing import List
+
+class Solution:
+    def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
+        graph = [[] for _ in range(n)]
+        for u, v in invocations:
+            graph[u].append(v)
+        suspicious = [False] * n
+        stack = [k]
+        suspicious[k] = True
+
+        while stack:
+            u = stack.pop()
+            for v in graph[u]:
+                if not suspicious[v]:
+                    suspicious[v] = True
+                    stack.append(v)
+
+        for u, v in invocations:
+            if not suspicious[u] and suspicious[v]:
+                return list(range(n))
+
+        return [i for i in range(n) if not suspicious[i]]
