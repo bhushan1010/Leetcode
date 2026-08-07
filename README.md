@@ -89,6 +89,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhushan1010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/bhushan1010/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhushan1010/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -106,6 +107,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 | [0877-stone-game](https://github.com/bhushan1010/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhushan1010/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/bhushan1010/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhushan1010/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/bhushan1010/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/bhushan1010/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -151,6 +153,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhushan1010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/bhushan1010/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,4 +174,12 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/bhushan1010/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/bhushan1010/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/bhushan1010/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
