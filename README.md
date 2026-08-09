@@ -80,6 +80,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bhushan1010/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/bhushan1010/Leetcode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhushan1010/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bhushan1010/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhushan1010/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -105,6 +106,7 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bhushan1010/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/bhushan1010/Leetcode/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhushan1010/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhushan1010/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bhushan1010/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -158,10 +160,12 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bhushan1010/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/bhushan1010/Leetcode/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bhushan1010/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/bhushan1010/Leetcode/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,4 +186,16 @@ Say the word and I'll add this file to your repo plan and wire the dashboard to 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bhushan1010/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/bhushan1010/Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/bhushan1010/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/bhushan1010/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
